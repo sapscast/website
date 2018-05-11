@@ -1,0 +1,10 @@
+.navbar-logo {
+    border-radius: 15px;
+    margin: 5px;
+    width: 70px;
+}
+
+.navbar-discord {
+    border-radius: 5px;
+    width: 150px;
+}
